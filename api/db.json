@@ -1,0 +1,14 @@
+{
+  "circles": [],
+  "favorites": [
+    {
+      "name": "Shem Creek Bar & Grill",
+      "id": 2
+    },
+    {
+      "name": "Sesame",
+      "id": 3
+    }
+  ],
+  "votes": []
+}
