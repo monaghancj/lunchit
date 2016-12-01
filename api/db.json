@@ -8,6 +8,10 @@
     {
       "name": "Sesame",
       "id": 3
+    },
+    {
+      "name": "Triangle",
+      "id": "4"
     }
   ],
   "votes": []
